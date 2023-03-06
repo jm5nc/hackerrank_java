@@ -1,4 +1,4 @@
-#!/usr/local/bin/java --source11
+#!/usr/local/bin/java --source 11
 
 public class Solution {
 
