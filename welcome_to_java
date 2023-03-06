@@ -1,0 +1,12 @@
+#!/usr/bin/env java
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
+        System.out.println("Hello, World.");
+        System.out.println("Hello, Java.");
+        System.out.println("There are benefits to learning in public, even if nobody ever looks at you.");
+    }
+}
+
